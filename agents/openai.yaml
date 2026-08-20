@@ -1,0 +1,14 @@
+interface:
+  display_name: Naive Crayon Redraw
+  short_description: 把参考图重绘成3岁小朋友式蜡笔/马克笔童趣插画
+  default_prompt: Use this skill to redraw the attached image in the default naive
+    crayon style while preserving its main pose and recognizable visual anchors.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
