@@ -1,0 +1,20 @@
+Edit the provided reference image into a loose, naive childlike hand-drawn illustration.
+
+REFERENCE ANCHORS
+- Subject: {{subject}}
+- Preserve: {{identity_anchors}}
+- Composition/orientation: {{composition}}
+- Dominant colors: {{colors}}
+- Requested aspect ratio: {{aspect_ratio}}
+
+STYLE
+Redraw the image as if it were interpreted and quickly drawn by a 3-year-old child. Keep it recognizable but intentionally not exact. Use a loose, innocent marker-and-crayon illustration style on a clean white paper background. Use simple shapes, awkward proportions, imperfect perspective, asymmetry, minimal detail, rough black outlines, occasional thin wobbly hand-drawn lines, scribbly uneven coloring, visible crayon/marker strokes, and small accidental-looking imperfections. Add subtle paper texture, very soft pencil/pastel shading, and a faint watercolor softness. Keep the image playful, cute, airy, warm, naive, whimsical, picture-book-like, and slightly messy, with generous white space. It should feel quickly drawn by hand rather than professionally polished.
+
+SOURCE FIDELITY
+Preserve the source image's broad pose, gaze/gesture, silhouette, major color placement, and its most recognizable visual markings, but simplify anatomy and secondary details. Do not trace the source precisely. If clothing/accessories are present, simplify them into playful storybook shapes while preserving their identity.
+
+AVOID
+Photorealism, 3D/CGI, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, hyper-detailed texture, polished vector lines, dense backgrounds, smooth airbrushing, and unnecessary text.
+
+EXTRA USER CONSTRAINTS
+{{extra_constraints}}
